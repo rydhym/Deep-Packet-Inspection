@@ -1,5 +1,11 @@
-# DPI Engine - Deep Packet Inspection System
+# Deep-Packet-Inspection Engine
 
+## 🚀 High-Level Summary
+*   **WHAT:** Developed a high-performance, multi-threaded Deep Packet Inspection (DPI) engine for real-time network traffic analysis and protocol identification.
+*   **HOW:** Engineered in **C++** using a concurrent architecture with **thread-safe queues**, parallel load balancing, stateful **Connection Tracking**, and **SNI Extraction**.
+*   **WHY:** Built to enhance network security and visibility, enabling granular traffic monitoring and anomaly detection in high-volume environments.
+
+---
 
 This document explains **everything** about this project - from basic networking concepts to the complete code architecture. After reading this, you should understand exactly how packets flow through the system without needing to read the code.
 
